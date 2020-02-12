@@ -1,0 +1,23 @@
+{
+  "name": "simple-rxjs-example",
+  "version": "1.0.0",
+  "description": "simple-rxjs-example",
+  "main": "index.js",
+  "dependencies": {
+    "rxjs": "^6.5.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheriefabdelmageed/simple-rxjs-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sheriefabdelmageed/simple-rxjs-example/issues"
+  },
+  "homepage": "https://github.com/sheriefabdelmageed/simple-rxjs-example#readme"
+}
